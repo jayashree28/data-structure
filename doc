@@ -1,0 +1,8 @@
+
+
+Creational Design Pattern :
+prototype design Pattern :
+Mainly used when we want to hide the implementation of how to create object for a perticular class . 
+want to dynamically create Object .
+
+best way to create is to 
